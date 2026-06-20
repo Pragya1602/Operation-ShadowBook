@@ -1,6 +1,6 @@
 # Operation-ShadowBook
 OSINT Investigation of Illegal Betting Sites ; Shadow Payment Ring
-Date: Jan 15, 2026
+Date: June 15, 2026
 
 Analyst: Pragya Chauhan
 
